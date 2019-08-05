@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Congratulations, Ilya!</h1>
-		<p><img src="ilya_ava.jpg"></p>
+		<p><img src="ilya_ava.jpg" width=300></p>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
